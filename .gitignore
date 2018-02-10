@@ -4,6 +4,7 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/UFPS*
+Assets/SabreCSG*
 Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
